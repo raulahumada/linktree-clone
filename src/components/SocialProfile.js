@@ -6,7 +6,6 @@ import {
   Flex,
   Text,
   Stack,
-  useColorModeValue,
 } from '@chakra-ui/react';
 
 import { socialData as socials } from '../socialData';
